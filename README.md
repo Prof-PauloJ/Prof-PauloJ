@@ -2,7 +2,7 @@
 
 Meu Nome é Paulo José
 
-- Professor de tecnologia e Robótica
+- Professor de Tecnologia e Robótica
 - Escola Irene Lime de Paiva
 - [Alura](https://www.alura.com.br/)
 - **Negrito**
