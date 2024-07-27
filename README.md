@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem vindo ao Meu Perfil ❤️
 
-<!--
-**Prof-PauloJ/Prof-PauloJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Paulo José
 
-Here are some ideas to get you started:
+- Professor de tecnologia e Robótica
+- Escola Irene Lime de Paiva
+- [Alura](https://www.alura.com.br/)
+- **Negrito**
+- _Itálico_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Entre em contato comigo 📧
+paulojosebarreto@prof.educacao.sp.gov.br
+
+![](https://media.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif)
+
